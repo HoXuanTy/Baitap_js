@@ -1,0 +1,17 @@
+#selling1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-bottom: 100px;
+}
+#selling2{
+   
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.container2{
+    background-image: url(https://bizweb.dktcdn.net/100/366/378/themes/736342/assets/evo_gift_bg.jpg?1663905428530);
+    width:100%;
+    background-size: cover;
+    background-position: center;
+}
